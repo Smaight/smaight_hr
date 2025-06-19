@@ -1,0 +1,182 @@
+﻿경력 요약서												
+												
+개
+
+
+발
+
+
+경
+
+
+력	발주처		업무내용				역할	기    간			구축환경	사용기술 및 툴
+	KT		유통SCM 유지보수 및 개발				PL
+개발	2006.05 ~ 2013.05			UNIX
+IBM-WebSphere
+Oracle	Eclipse
+Pl-sql
+Java
+Jsp
+	롯데정보통신		유통SCM ASN 개발				PL
+개발	2007.08 ~ 2008.06			UNIX
+IBM-WebSphere
+Oracle	Eclipse
+Pl-sql
+Java
+Jsp
+	KT		유통 SCM DB 처리 프로세스 개발				개발	2008.08 ~ 2008.12			UNIX
+IBM-WebSphere
+Oracle	Eclipse
+Pl-sql
+Java
+	신세계I&C		신세계I&C 마감 도우미 페이지 및 프로세스 개발				PM
+개발	2009.05 ~ 2009.12			UNIX
+Tomcat
+Oracle
+Ms-sql	Eclipse
+Java
+Jsp
+	롯데정보통신		B2BI(롯데제과,롯데햄) 데이터 인티그레이션				개발	2011.05 ~ 2011.12			UNIX
+Tomcat
+Oracle
+Ms-sql	Eclipse
+Java
+Jsp
+	KT		유통SCM 모바일 웹 페이지 개발				PL
+개발	2012.06 ~ 2012.09			Windows
+Tomcat
+Oracle	Eclipse
+Pl-sql
+Java
+Jsp
+	신세계I&C		웹스크래핑				개발	2012.12 ~ 2013.02			UNIX
+JEUS
+Tomcat
+Weblogic	Eclipse
+Java
+	현대카드		공정관리 시스템 유지보수				PL
+개발	2013.05 ~ 2019.09			UNIX
+JEUS
+Oracle	x-platform
+Eclipse
+Java
+Spring Framework
+	농협카드		공정관리 시스템 유지보수				PL
+개발	2013.05 ~ 2019.09			Windows
+Tomcat
+Oracle	Eclipse
+Java
+Jsp
+Spring Framework
+	현대카드		현대카드 차세대 공정관리 개발				PL
+개발	2013.11 ~ 2015.07			UNIX
+JEUS
+Oracle	X-Platform
+BXM-Tool
+Java
+Spring Framework
+	비씨카드		비씨카드 공정관리 시스템 개발				PL
+개발	2016.01 ~ 2016.04			Linux
+Weblogic
+Oracle	전자정부 프레임 워크
+오즈 레포트
+Java
+Jsp
+	유비벨록스		카드 제조 공정관리 시스템 개발				개발	2016.06 ~ 2017.03			Linux
+Tomcat
+Oracle	Eclipse
+Kendo-ui
+Java
+Jsp
+Spring Boot
+	농협카드		NH농협카드 공정관리 시스템 고도화 개발				PM
+개발	2017.04 ~ 2018.03			Windows
+Tomcat
+Oracle	Eclipse
+Java
+Jsp
+Spring Boot
+	우리은행		원광대학교 기숙사 관리 시스템				PL
+개발	2018.03 ~ 2018.04			Linux
+Tomcat
+Altibase	Eclipse
+Java
+Jsp
+Spring Boot
+	우리은행		성균관대학교 기숙사 관리 시스템				PL
+개발	2018.04 ~ 2018.09			Linux
+Tomcat
+Oracle	Eclipse
+Java
+Jsp
+Spring Boot
+	비씨카드		비씨카드 공정 관리 추가 개발				PM
+개발	2018.11 ~ 2019.01			Linux
+Weblogic
+Oracle	전자정부 프레임 워크
+오즈 레포트 툴
+Java
+Jsp
+	비씨카드		비씨카드 공정 관리 차세대 대응 개발				PM
+개발	2019.02 ~ 2019.04			Linux
+Weblogic
+Oracle	전자정부 프레임 워크
+오즈 레포트 툴
+Java
+Jsp
+	농협카드		NH농협카드 전사차세대 대응개발				PM
+개발	2019.05 ~ 2019.07			Windows
+Tomcat
+Oracle	Eclipse
+Java
+Jsp
+Spring Boot
+	우리은행		우리카드ID카드 발급시스템 개발				개발	2019.08 ~ 2019.09			Linux
+Tomcat
+MonggoDB	Eclipse
+Java
+Jsp
+Spring Boot
+	하나투어		하나투어 차세대 시스템 개발 및 유지보수				개발	2019.10 ~ 2020.09			Linux
+Tomcat
+Oracle	Eclipse
+Java
+Nexacro
+오즈 레포트 툴
+Spring Boot
+	Ne능률		B2B LMS 시스템 개발 및 유지보수				개발	2020.10 ~ 현재			Windows
+IIS
+Ms-sql	Edit-Plus
+ASP
+	Ne능률		토마토클래스/NE 클래스 개발 및 유지보수				개발	2020.10 ~ 현재			Windows
+IIS
+Ms-sql	Intellij
+Java
+Jsp
+Spring Framework
+	Ne능률		NELT 서비스 개발 및 운영				PM
+PL
+개발	2021.05 ~ 현재			Windows
+Tomcat
+Ms-sql	Intellij
+Java
+thyleaf
+Spring boot
+	Ne능률		NE Teacher 서비스 리뉴얼				PM
+개발	2023.09 ~ 2024.02			Windows
+IIS
+Ms-sql	Edit-Plus
+ASP
+	Ne능률		NEVIL(사내 그룹웨어) 서비스 개발 및 운영				PM
+PL
+개발	2022.12 ~ 현재			Windows
+IIS
+Ms-sql	Edit-Plus
+ASP
+	Ne능률		공통 API 서버 개발				PM
+PL
+개발	2024.10 ~ 현재			Windows
+Tomcat
+Ms-sql	Intellij
+Java
+Spring boot
