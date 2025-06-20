@@ -23,11 +23,11 @@ app.get("/search", (req, res) => {
 
         const txtFiles = files.filter(f => f.endsWith(".txt"));
         const results = [];
-
+        //  txtFiles가 모도일치해야 results에 추가하도록 수정해줘
         txtFiles.forEach(file => {
             const filePath = path.join(TXT_DIR, file);
             const content = fs.readFileSync(filePath, "utf-8");
-            const hasMatch = queryParams.some(q => content.includes(q));
+            const hasMatch = queryParams.every(q => content.includes(q));
 
             if (hasMatch) {
                 results.push({ filename: file, preview: content.slice(0, 100) });
